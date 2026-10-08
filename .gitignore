@@ -1,0 +1,11 @@
+# Gradle / Android build litter (never commit)
+.gradle/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+.idea/
+*.iml
